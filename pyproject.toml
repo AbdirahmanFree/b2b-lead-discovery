@@ -1,0 +1,17 @@
+[project]
+name = "b2b-lead-discovery"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Abdirahman Abdulahi", email = "abdirahmanm.abdulahi@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = []
+
+[project.scripts]
+b2b-lead-discovery = "b2b_lead_discovery:main"
+
+[build-system]
+requires = ["uv_build>=0.12.19,<0.13.0"]
+build-backend = "uv_build"
