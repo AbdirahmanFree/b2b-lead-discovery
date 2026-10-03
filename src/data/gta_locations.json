@@ -1,0 +1,49 @@
+{
+  "Toronto": {
+    "Toronto": [
+      "Toronto",
+      "Etobicoke",
+      "North York",
+      "Scarborough",
+      "East York",
+      "York",
+      "Downtown Toronto"
+    ]
+  },
+
+  "Peel": {
+    "Mississauga": ["Mississauga"],
+    "Brampton": ["Brampton"],
+    "Caledon": ["Caledon"]
+  },
+
+  "York": {
+    "Vaughan": ["Vaughan"],
+    "Markham": ["Markham"],
+    "Richmond Hill": ["Richmond Hill"],
+    "Aurora": ["Aurora"],
+    "Newmarket": ["Newmarket"],
+    "Whitchurch-Stouffville": ["Whitchurch-Stouffville"],
+    "East Gwillimbury": ["East Gwillimbury"],
+    "King": ["King"],
+    "Georgina": ["Georgina"]
+  },
+
+  "Durham": {
+    "Pickering": ["Pickering"],
+    "Ajax": ["Ajax"],
+    "Whitby": ["Whitby"],
+    "Oshawa": ["Oshawa"],
+    "Clarington": ["Clarington"],
+    "Uxbridge": ["Uxbridge"],
+    "Scugog": ["Scugog"],
+    "Brock": ["Brock"]
+  },
+
+  "Halton": {
+    "Oakville": ["Oakville"],
+    "Burlington": ["Burlington"],
+    "Milton": ["Milton"],
+    "Halton Hills": ["Halton Hills"]
+  }
+}
